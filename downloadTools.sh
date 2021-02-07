@@ -1,3 +1,5 @@
+#!/bin/bash
+
 brew install binutils
 brew install diffutils
 brew install ed --with-default-names
